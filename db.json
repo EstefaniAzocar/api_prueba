@@ -1,61 +1,65 @@
 {
-    "questions": [
-      {
-        "id":1,
-        "questionText": "¿Que sentiste cuando te llego correo de Corewoman que fuiste seleccionado para la primera fase?",
-        "options": [
-          { "optionText": "Muy contento", "score": 5 },
-          { "optionText": "emocionado", "score": 4 },
-          { "optionText": " alegria", "score": 3 },
-          { "optionText": "satisfacion", "score": 2 },
-          { "optionText": "sorpresa", "score": 1 }
-        ]
-      },
-      {
-        "id":2,
-        "questionText": "¿Como crees que te fue en la entrevista con recursos humanos?",
-        "options": [
-          { "optionText": "excelente", "score": 5 },
-          { "optionText": "muy bien", "score": 4 },
-          { "optionText": "Esperanza", "score": 3 },
-          { "optionText": "No estoy seguro", "score": 2 },
-          { "optionText": "No se", "score": 1 }
-        ]
-      },
-      {
-        "id":3,
-        "questionText": "¿Que sentias mientras esperabas correo de si pasaste a la segunda fase?",
-        "options": [
-          { "optionText": "Incertidumbre", "score": 5 },
-          { "optionText": "Desesperación", "score": 4 },
-          { "optionText": "desconnfiado de ti", "score": 3 },
-          { "optionText": "Dudabas que pasarias", "score": 2 },
-          { "optionText": "No le tomabas importancia", "score": 1 }
-        ]
-      },
-      {
-        "id":4,
-        "questionText": "¿Que sentiste cuando te llego correo de CWTech que pasaste a la segunda Fase?",
-        "options": [
-          { "optionText": "Muy contento", "score": 5 },
-          { "optionText": "Emocionado", "score": 4 },
-          { "optionText": "Alegria", "score": 3 },
-          { "optionText": "Satisfacion", "score": 2 },
-          { "optionText": "Sorpresa", "score": 1 }
-        ]
-      },
-      {
-        "id":5,
-        "questionText": "¿A conocer la prueba tecnica que fue lo primero que pensaste?",
-        "options": [
-          { "optionText": "Esta muy dificil", "score": 5 },
-          { "optionText": "No podre realizarla", "score": 4 },
-          { "optionText": "Esta compleja no se si lo logre", "score": 3 },
-          { "optionText": "Puedo Intentar realizarla", "score": 2 },
-          { "optionText": "Esta facil de hacer", "score": 1 }
-        ]
-      }
-    ]
-  }
-  
-  
+  "questions": [
+    {
+      "id":1,
+      "questionText": "¿Que sentiste cuando te llego correo de Corewoman que fuiste seleccionado para la primera fase?",
+      "options": [
+        { "optionText": "Muy contento", "score": 5 },
+        { "optionText": "emocionado", "score": 4 },
+        { "optionText": " alegria", "score": 3 },
+        { "optionText": "satisfacion", "score": 2 },
+        { "optionText": "sorpresa", "score": 1 }
+      ]
+      "userScore": 0
+    },
+    {
+      "id":2,
+      "questionText": "¿Como crees que te fue en la entrevista con recursos humanos?",
+      "options": [
+        { "optionText": "excelente", "score": 5 },
+        { "optionText": "muy bien", "score": 4 },
+        { "optionText": "Esperanza", "score": 3 },
+        { "optionText": "No estoy seguro", "score": 2 },
+        { "optionText": "No se", "score": 1 }
+      ]
+      "userScore": 0,
+    },
+    {
+      "id":3,
+      "questionText": "¿Que sentias mientras esperabas correo de si pasaste a la segunda fase?",
+      "options": [
+        { "optionText": "Incertidumbre", "score": 5 },
+        { "optionText": "Desesperación", "score": 4 },
+        { "optionText": "desconnfiado de ti", "score": 3 },
+        { "optionText": "Dudabas que pasarias", "score": 2 },
+        { "optionText": "No le tomabas importancia", "score": 1 }
+      ]
+      "userScore": 0,
+    },
+    {
+      "id":4,
+      "questionText": "¿Que sentiste cuando te llego correo de CWTech que pasaste a la segunda Fase?",
+      "options": [
+        { "optionText": "Muy contento", "score": 5 },
+        { "optionText": "Emocionado", "score": 4 },
+        { "optionText": "Alegria", "score": 3 },
+        { "optionText": "Satisfacion", "score": 2 },
+        { "optionText": "Sorpresa", "score": 1 }
+      ]
+      "userScore": 0,
+    },
+    {
+      "id":5,
+      "questionText": "¿A conocer la prueba tecnica que fue lo primero que pensaste?",
+      "options": [
+        { "optionText": "Esta muy dificil", "score": 5 },
+        { "optionText": "No podre realizarla", "score": 4 },
+        { "optionText": "Esta compleja no se si lo logre", "score": 3 },
+        { "optionText": "Puedo Intentar realizarla", "score": 2 },
+        { "optionText": "Esta facil de hacer", "score": 1 }
+      ]
+      "userScore": 0,
+    }
+  ]
+}
+
